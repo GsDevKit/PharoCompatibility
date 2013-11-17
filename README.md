@@ -6,7 +6,7 @@ Pharo compatibility for GemStone: various extensions to Gemstone/GLASS to improv
 - Multilingual-TextConversion implements various text encoding algorithms
 - GsPharo-Core implements a collection of Pharo-specific methods
 
-** Installation instructions
+## Installation instructions
 
 ```Smalltalk
      Metacello new
