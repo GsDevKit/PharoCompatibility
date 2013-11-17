@@ -7,6 +7,9 @@ gitPath := (FileDirectory default directoryNamed: 'git_cache') fullName.
 Metacello new
   baseline: 'PharoCompatibility';
   repository: 'filetree://', gitPath, '/PharoCompatibility/repository';
+  onWarning: [:ex | 
+    Transcript cr; show: ex description.
+    ex resume ];
   load: 'Tests'.
 
 "Run the tests"
