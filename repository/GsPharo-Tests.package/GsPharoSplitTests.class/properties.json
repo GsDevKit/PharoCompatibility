@@ -1,0 +1,14 @@
+{
+	"category" : "GsPharo-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 03/23/2011 15:20",
+	"instvars" : [
+		 ],
+	"name" : "GsPharoSplitTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
