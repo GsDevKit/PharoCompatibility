@@ -11,7 +11,7 @@ Pharo compatibility for GemStone: various extensions to Gemstone/GLASS to improv
 ```Smalltalk
      Metacello new
       baseline: 'PharoCompatibility';
-      repository: 'github://glassdb/PharoCompatibility:master/repository;
+      repository: 'github://glassdb/PharoCompatibility:master/repository';
       load: 'Core'
 ```
 
