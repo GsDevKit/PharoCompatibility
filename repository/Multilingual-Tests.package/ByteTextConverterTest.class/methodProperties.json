@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testConversionToFrom" : "nice 7/26/2009 22:44",
+		"testLatin2ToUnicodeConversion" : "KrisGybels 02/21/2013 12:26",
+		"testUnicodeToLatin2Conversion" : "KrisGybels 2/21/2013 10:24" } }
