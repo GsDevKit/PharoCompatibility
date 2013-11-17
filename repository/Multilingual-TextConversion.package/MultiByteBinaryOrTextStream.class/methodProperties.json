@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"with:encoding:" : "yo 11/23/2003 20:32" },
+	"instance" : {
+		"ascii" : "yo 11/11/2002 13:16",
+		"basicNext" : "KrisGybels 02/21/2013 12:21",
+		"basicNextPut:" : "yo 11/11/2002 13:21",
+		"binary" : "yo 11/11/2002 13:16",
+		"contents" : "yo 7/30/2004 06:59",
+		"converter" : "nk 8/2/2004 17:02",
+		"converter:" : "yo 8/7/2003 09:12",
+		"isBinary" : "yo 11/11/2002 13:25",
+		"next" : "yo 11/11/2002 16:39",
+		"nextPut:" : "LukasRenggli 5/8/2010 18:43",
+		"nextPutAll:" : "LukasRenggli 5/8/2010 18:43",
+		"reset" : "nk 7/29/2004 12:02",
+		"text" : "yo 11/11/2002 16:33",
+		"upToEnd" : "PeterHugossonMiller 9/3/2009 10:08" } }

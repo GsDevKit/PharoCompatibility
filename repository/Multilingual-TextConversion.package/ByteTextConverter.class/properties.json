@@ -1,0 +1,15 @@
+{
+	"category" : "Multilingual-TextConversion",
+	"classinstvars" : [
+		"byteToUnicode",
+		"unicodeToByte" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ByteTextConverter",
+	"pools" : [
+		 ],
+	"super" : "TextConverter",
+	"type" : "normal" }

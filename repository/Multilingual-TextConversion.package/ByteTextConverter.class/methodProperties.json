@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"byteToUnicodeSpec" : "ThomasCleenewerck 11/11/2012 14:22",
+		"byteToUnicodeTable" : "ThomasCleenewerck 11/11/2012 14:21",
+		"initialize" : "ThomasCleenewerck 11/11/2012 14:22",
+		"initializeTables" : "ThomasCleenewerck 11/11/2012 14:22",
+		"unicodeToByteTable" : "ThomasCleenewerck 11/11/2012 14:21" },
+	"instance" : {
+		"byteToUnicode:" : "ThomasCleenewerck 11/11/2012 14:15",
+		"nextFromStream:" : "ThomasCleenewerck 11/11/2012 14:15",
+		"nextPut:toStream:" : "michael.rueger 2/5/2009 14:10",
+		"unicodeToByte:" : "ThomasCleenewerck 11/11/2012 14:15" } }

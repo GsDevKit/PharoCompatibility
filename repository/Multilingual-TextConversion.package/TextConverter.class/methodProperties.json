@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"allEncodingNames" : "ThomasCleenewerck 11/11/2012 14:01",
+		"defaultConverterClassForEncoding:" : "yo 7/25/2003 14:08",
+		"encodingNames" : "ThomasCleenewerck 11/11/2012 14:01",
+		"initializeLatin1MapAndEncodings" : "nice 5/10/2009 00:45",
+		"latin1Encodings" : "nice 5/9/2009 23:35",
+		"latin1Map" : "nice 5/9/2009 23:34",
+		"newForEncoding:" : "ThomasCleenewerck 11/11/2012 14:01" },
+	"instance" : {
+		"emitSequenceToResetStateIfNeededOn:" : "yo 7/29/2003 15:51",
+		"initialize" : "HenrikSperreJohansen 2/5/2010 20:24",
+		"nextFromStream:" : "ThomasCleenewerck 11/11/2012 14:04",
+		"nextPut:toStream:" : "ThomasCleenewerck 11/11/2012 14:04",
+		"nextPutAll:toStream:" : "KrisGybels 02/21/2013 11:11",
+		"restoreStateOf:with:" : "ThomasCleenewerck 11/11/2012 14:12",
+		"saveStateOf:" : "ThomasCleenewerck 11/11/2012 14:13" } }
