@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPharoCompatibility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPharoCompatibility",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

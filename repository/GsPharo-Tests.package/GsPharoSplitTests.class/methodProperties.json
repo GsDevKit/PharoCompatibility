@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assert:equals:" : "DaleHenrichs 12/08/2010 10:53",
+		"testSplitArrayOnBlock" : "DaleHenrichs 12/08/2010 10:51",
+		"testSplitArrayOnElement" : "DaleHenrichs 12/08/2010 10:51",
+		"testSplitArrayOnSequence" : "DaleHenrichs 12/08/2010 10:51",
+		"testSplitOrderedCollectionOnElement" : "DaleHenrichs 12/08/2010 10:52",
+		"testSplitOrderedCollectionOnOrderedCollection" : "DaleHenrichs 12/08/2010 10:52",
+		"testSplitSortedCollectionOnElement" : "DaleHenrichs 12/08/2010 10:52",
+		"testSplitSortedCollectionOnSortedCollection" : "DaleHenrichs 12/08/2010 10:52",
+		"testSplitStringOnBlock" : "DaleHenrichs 12/08/2010 10:52",
+		"testSplitStringOnChar" : "DaleHenrichs 12/08/2010 10:52",
+		"testSplitStringOnRegex" : "DaleHenrichs 12/08/2010 16:39",
+		"testSplitStringOnSubstring" : "DaleHenrichs 12/08/2010 10:52" } }
