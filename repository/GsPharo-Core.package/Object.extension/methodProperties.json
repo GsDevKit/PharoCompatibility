@@ -2,4 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"split:" : "DaleHenrichs 12/08/2010 10:44" } }
+		"appendTo:" : "MarianoMartinezPeck 11/14/2013 15:57",
+		"join:" : "MarianoMartinezPeck 11/14/2013 15:57",
+		"joinTo:" : "MarianoMartinezPeck 11/14/2013 15:56",
+		"split:" : "MarianoMartinezPeck 11/14/2013 15:57",
+		"split:do:" : "MarianoMartinezPeck 11/14/2013 15:57",
+		"split:indicesDo:" : "MarianoMartinezPeck 11/14/2013 15:57" } }
