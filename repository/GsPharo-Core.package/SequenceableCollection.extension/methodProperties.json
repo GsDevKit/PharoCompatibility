@@ -2,5 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
+		"appendTo:" : "MarianoMartinezPeck 11/14/2013 16:05",
+		"join:" : "MarianoMartinezPeck 11/14/2013 15:54",
+		"joinTo:" : "MarianoMartinezPeck 11/14/2013 15:54",
+		"joinUsing:" : "MarianoMartinezPeck 11/14/2013 15:54",
+		"joinUsing:last:" : "MarianoMartinezPeck 11/14/2013 16:04",
 		"split:" : "DaleHenrichs 12/08/2010 10:43",
-		"splitOn:" : "DaleHenrichs 12/08/2010 10:48" } }
+		"split:indicesDo:" : "MarianoMartinezPeck 11/14/2013 16:05",
+		"splitOn:" : "DaleHenrichs 12/08/2010 10:48",
+		"splitOn:do:" : "MarianoMartinezPeck 11/14/2013 16:05",
+		"splitOn:indicesDo:" : "MarianoMartinezPeck 11/14/2013 16:05" } }

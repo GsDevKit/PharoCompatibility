@@ -1,1 +1,1 @@
-SystemOrganization addCategory: 'Multilingual-TextConversion'!
+SystemOrganization addCategory: #'Multilingual-TextConversion'!
