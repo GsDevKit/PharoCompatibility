@@ -8,4 +8,3 @@ allSelectorsBelow: topClass
 				ifTrue: [^ coll ]
 				ifFalse: [aClass selectorsDo: [ :sel | coll add: sel ]]].
 	^ coll
-	

@@ -2,5 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
+		"asCommaString" : "jupiter 01/21/2017 20:12",
+		"asCommaStringAnd" : "jupiter 01/21/2017 20:12",
+		"asStringOn:delimiter:" : "jupiter 01/21/2017 20:12",
+		"asStringOn:delimiter:last:" : "jupiter 01/21/2017 20:12",
+		"detect:ifFound:" : "jupiter 01/22/2017 12:25",
+		"detect:ifFound:ifNone:" : "jupiter 01/22/2017 12:25",
+		"flatCollect:" : "jupiter 01/21/2017 19:47",
+		"flatCollect:as:" : "jupiter 01/21/2017 19:48",
+		"flatCollectAsSet:" : "jupiter 01/21/2017 19:48",
 		"groupedBy:" : "dkh 03/23/2011 15:29",
-		"groupedBy:having:" : "dkh 03/23/2011 15:32" } }
+		"groupedBy:having:" : "dkh 03/23/2011 15:32",
+		"isNotEmpty" : "jupiter 01/22/2017 15:57" } }
