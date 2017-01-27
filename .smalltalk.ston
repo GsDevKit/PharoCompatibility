@@ -1,0 +1,16 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'PharoCompatibility',
+      #load : [ 'Tests' ],
+      #directory : 'repository',
+      #onWarningLog : true,
+      #platforms : [ #gemstone ]
+    }
+  ],
+  #testing : {
+    #include : {
+      #classes : [ #SentButNotImplementedTest, #UndefinedSymbolsTest ]
+    }
+  }
+}
