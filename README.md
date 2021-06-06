@@ -1,6 +1,8 @@
 PharoCompatibility
 ==================
 
+[![Build Status](https://github.com/GsDevKit/PharoCompatibility/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/GsDevKit/PharoCompatibility/actions/workflows/ci.yml)
+
 Pharo compatibility for GemStone: various extensions to Gemstone/GLASS to improve its compatibility with Pharo.
 
 - Multilingual-TextConversion implements various text encoding algorithms
