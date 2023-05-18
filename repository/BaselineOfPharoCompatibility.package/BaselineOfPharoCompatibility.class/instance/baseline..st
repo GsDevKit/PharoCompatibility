@@ -16,6 +16,12 @@ baseline: spec
         package: 'Multilingual-Tests'
           with: [ spec requires: #('Multilingual-TextConversion') ];
         yourself.
+   spec
+    for: #(#'gs3.7.x' #'gs3.8.x' #'gs3.9.x')
+    do: [ 
+spec package: 'GsPharo-Core' with: [spec file: 'GsPharo-Core.v37' ];
+yourself.
+].
       spec
         group: 'default' with: #('Core' 'Tests');
         group: 'Core' with: #('GsPharo-Core' 'Multilingual-TextConversion');

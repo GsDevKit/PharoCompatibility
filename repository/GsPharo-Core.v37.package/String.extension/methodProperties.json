@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"findAnySubstring:startingAt:" : "jupiter 01/21/2017 20:21",
+		"findBetweenSubstrings:" : "jupiter 01/21/2017 20:19",
+		"join:" : "MarianoMartinezPeck 11/14/2013 16:07",
+		"skipAnySubstring:startingAt:" : "jupiter 01/21/2017 20:20",
+		"skipDelimiters:startingAt:" : "jupiter 01/21/2017 20:20",
+		"squeezeOutNumber" : "dkh 03/24/2011 14:25",
+		"withoutTrailingNewlines" : "jupiter 01/21/2017 21:18" } }

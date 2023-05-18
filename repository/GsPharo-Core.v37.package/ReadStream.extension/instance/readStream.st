@@ -1,0 +1,3 @@
+*gspharo-core
+readStream
+  ^ self
