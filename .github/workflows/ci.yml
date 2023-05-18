@@ -11,8 +11,8 @@ on:
 jobs:
   build:
     strategy:
+      fail-fast: false
       matrix:
-        fail-fast: false
         os: [ ubuntu-20.04, macos-latest ]
         smalltalk: [ GemStone64-3.6.5, GemStone64-3.6.0, GemStone64-3.5.8, GemStone64-3.5.3 ]
     runs-on: ${{ matrix.os }}
