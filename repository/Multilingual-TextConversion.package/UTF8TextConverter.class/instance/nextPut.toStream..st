@@ -1,6 +1,6 @@
 conversion
 nextPut: aCharacter toStream: aStream 
-	| leadingChar nBytes mask shift ucs2code |
+	| leadingChar nBytes mask shift ucs2code highBitOffset |
 	aStream isBinary ifTrue: [^aCharacter storeBinaryOn: aStream].
 	leadingChar := aCharacter leadingChar.
 	(leadingChar = 0 and: [aCharacter asciiValue < 128]) ifTrue: [
@@ -13,7 +13,8 @@ nextPut: aCharacter toStream: aStream
 	ucs2code := aCharacter asUnicode.
 	ucs2code ifNil: [^ aStream].
 
-	nBytes := ucs2code highBit + 3 // 5.
+	highBitOffset := 1. "#highBit 1-indexed on Pharo, but 0-indexed on GemStone"
+	nBytes := ucs2code highBit + highBitOffset + 3 // 5.
 	mask := #(128 192 224 240 248 252 254 255) at: nBytes.
 	shift := nBytes - 1 * -6.
 	aStream basicNextPut: (Character value: (ucs2code bitShift: shift) + mask).
