@@ -18,7 +18,6 @@ jobs:
         include: 
           - smalltalk: GemStone64-3.6.7
             os: macos-latest
-        include: 
           - smalltalk: GemStone64-3.5.8
             os: macos-latest
     runs-on: ${{ matrix.os }}
