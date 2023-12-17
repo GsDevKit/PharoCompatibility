@@ -18,3 +18,4 @@ Pharo compatibility for GemStone: various extensions to Gemstone/GLASS to improv
 ```
 
 Note that this project depends upon [the GitHub GLASS project](https://github.com/glassdb/glass) and should be considered experimental for the time being.
+
