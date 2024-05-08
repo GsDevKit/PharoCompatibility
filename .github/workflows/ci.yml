@@ -19,7 +19,7 @@ jobs:
           - smalltalk: GemStone64-3.6.8
             os: macos-latest
           - smalltalk: GemStone64-3.5.8
-            os: macos-latest
+            os: macos-11
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
